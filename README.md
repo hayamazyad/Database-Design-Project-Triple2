@@ -37,11 +37,10 @@ The database has been carefully designed and normalized to ensure efficiency, da
 ## Team Members
 
 This project was completed by:
-
+- Haya Mazyad 
 - Nour Saad  
 - Joudy Allam  
-- Lynn Oueidat  
-- Haya Mazyad  
+- Lynn Oueidat   
 - Alaa Sakr
 
 Under the supervision of **Dr. Ramzi A. Haraty**  
