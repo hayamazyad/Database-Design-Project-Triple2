@@ -42,5 +42,4 @@ This project was completed by:
 - Joudy Allam  
 - Lynn Oueidat   
 - Alaa Sakr
-
-Under the supervision of **Dr. Ramzi A. Haraty**  as part of the course **Database Management Systems**  
+Under the supervision of **Dr. Ramzi A. Haraty**  as part of the course *Database Management Systems*  
