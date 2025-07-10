@@ -43,5 +43,4 @@ This project was completed by:
 - Lynn Oueidat   
 - Alaa Sakr
 
-Under the supervision of **Dr. Ramzi A. Haraty**  
-Course: CSC/BIF375 – Database Management Systems  
+Under the supervision of **Dr. Ramzi A. Haraty**  as part of the course **Database Management Systems**  
